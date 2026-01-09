@@ -3,19 +3,13 @@
 =========================================================
 * Vue Notus - v1.1.0 based on Tailwind Starter Kit by Creative Tim
 =========================================================
-
 * Product Page: https://www.creative-tim.com/product/vue-notus
-* Original Copyright 2021 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/vue-notus/blob/main/LICENSE.md)
+* Copyright 2021 Creative Tim (https://www.creative-tim.com)
 
-=========================================================
-* MODIFIED AND DEVELOPED BY EQUAIAR
+* MODIFICADO Y DESARROLLADO POR: EQUAIAR
 * Website: https://equaiar.com.ar/
 * Copyright 2026 EQUAIAR
 =========================================================
-
-* Original Design by Creative Tim
-* Custom Logic, Components and Refactoring by Equaiar
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
@@ -25,19 +19,13 @@
 =========================================================
 * Vue Notus - v1.1.0 based on Tailwind Starter Kit by Creative Tim
 =========================================================
-
 * Product Page: https://www.creative-tim.com/product/vue-notus
-* Original Copyright 2021 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/vue-notus/blob/main/LICENSE.md)
+* Copyright 2021 Creative Tim (https://www.creative-tim.com)
 
-=========================================================
-* MODIFIED AND DEVELOPED BY EQUAIAR
+* MODIFICADO Y DESARROLLADO POR: EQUAIAR
 * Website: https://equaiar.com.ar/
 * Copyright 2026 EQUAIAR
 =========================================================
-
-* Original Design by Creative Tim
-* Custom Logic, Components and Refactoring by Equaiar
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
